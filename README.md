@@ -142,9 +142,9 @@ Used some packages to make some functionalities easier to build:
 
 ## :globe_with_meridians: Project Links
 
-- [Client-Side Link](https://mhr-boss-restaurant.web.app/)
-- [Server-Side Link](https://bistro-boss-server.vercel.app/)
-- [Server-Side Repo](https://github.com/ShafiaChy/bistro-boss-server-side)
+- [Live Link](https://mhr-boss-restaurant.web.app/)
+- [Client-Side Link](https://github.com/mehedihasanroniDev/mhr-boss-restaurant-client)
+- [Server-Side Repo](https://github.com/mehedihasanroniDev/mhr-boss-restaurant-server)
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://react.dev/
