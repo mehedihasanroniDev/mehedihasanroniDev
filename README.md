@@ -32,16 +32,16 @@ through responsive and visually appealing web interfaces
 <br>
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/shafia-rahman-chowdhury-791a86216/">
+  <a href="https://www.linkedin.com/in/shafia-rahman-chowdhury-791a86216/" target="_blank">
    <img align="left" alt="Shafia Rahman Chowdhury| Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:shafiarahman13@gmail.com">
+  <a href="mailto:shafiarahman13@gmail.com" target="_blank">
     <img align="left" alt="Shafia Rahman Chowdhury| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://instagram.com/shafia_chy?igshid=MzMyNGUyNmU2YQ==">
+  <a href="https://instagram.com/shafia_chy?igshid=MzMyNGUyNmU2YQ==" target="_blank">
     <img align="left" alt="Shafia Rahman Chowdhury| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/mehedehasan.rony.7">
+   <a href="https://www.facebook.com/mehedehasan.rony.7" target="_blank">
     <img align="left" alt="Shafia Rahman Chowdhury| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
   
