@@ -33,7 +33,7 @@ through responsive and visually appealing web interfaces
 <h4> Connect with me🤝: <h4>
   </hr>
 
-  <a href="mailto:mehedihasanroni274@gmail.com" target="_blank">
+  <a href="mailto:mehedihasanroni.dev@gmail.com" target="_blank">
     <img align="left" alt="Shafia Rahman Chowdhury| Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
    <a href="https://www.facebook.com/mehedehasan.rony.7" target="_blank">
