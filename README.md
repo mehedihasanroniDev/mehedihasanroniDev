@@ -53,17 +53,17 @@ through responsive and visually appealing web interfaces
 
   <br />
 <div align="center">
-  <a href="https://b-7-mi-12.web.app/">
+  <a href="https://mhr-boss-restaurant.web.app/">
     <img src="https://i.ibb.co/gFDJd8V/logo.png" alt="Logo" width="200px" height="200px">
   </a>
 
-  <h2 align="center">Bistro Boss</h2>
+  <h2 align="center">MHR BOSS RESTAURANT</h2>
 
   <p align="center">
     A culinary experience fit for a boss!
     <br />
     <a></a>
-    <a href="https://bistro-boss-e5090.web.app/">View Demo</a>
+    <a href="https://mhr-boss-restaurant.web.app/">View Demo</a>
     <br />
    
   </p>
@@ -75,7 +75,7 @@ through responsive and visually appealing web interfaces
 ## :stew: About The Project
 
 <br/>
- <a align='center' href="https://b-7-mi-12.web.app/">
+ <a align='center' href="https://mhr-boss-restaurant.web.app/">
     <img align='center' src="https://i.ibb.co/rykdJ1w/mhr-boss-restaurant-home-page.png" alt="Logo" width="1000px" height="400">
   </a>
 
@@ -142,7 +142,7 @@ Used some packages to make some functionalities easier to build:
 
 ## :globe_with_meridians: Project Links
 
-- [Client-Side Link](https://b-7-mi-12.web.app/)
+- [Client-Side Link](https://mhr-boss-restaurant.web.app/)
 - [Server-Side Link](https://bistro-boss-server.vercel.app/)
 - [Server-Side Repo](https://github.com/ShafiaChy/bistro-boss-server-side)
 
