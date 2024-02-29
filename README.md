@@ -41,7 +41,7 @@ through responsive and visually appealing web interfaces
   <a href="https://instagram.com/shafia_chy?igshid=MzMyNGUyNmU2YQ==">
     <img align="left" alt="Shafia Rahman Chowdhury| Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://www.facebook.com/profile.php?id=100070028615565&mibextid=ZbWKwL">
+   <a href="https://www.facebook.com/mehedehasan.rony.7">
     <img align="left" alt="Shafia Rahman Chowdhury| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
   
